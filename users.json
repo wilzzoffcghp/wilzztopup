@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440000",
+    "username": "wilzzofficial",
+    "email": "old2250@gmail.com",
+    "password": "wilzz1213",
+    "phone": "08123456789",
+    "balance": 500000,
+    "is_reseller": false,
+    "created_at": "2026-05-26T08:00:00.000Z"
+  },
+  {
+    "id": "660e8400-e29b-41d4-a716-446655441111",
+    "username": "siti_ayu",
+    "email": "siti@example.com",
+    "password": "$2a$10$M9qo8uLOickgx2ZMRZoMy.Mr/.cZgG5R6Yw5Ew5Ew5Ew5Ew5Ew5E",
+    "phone": "08129876543",
+    "balance": 100000,
+    "is_reseller": true,
+    "created_at": "2026-05-25T15:30:00.000Z"
+  }
+]
